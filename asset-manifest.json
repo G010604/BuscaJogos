@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/SiteBusca/static/js/main.0da6ae8d.js",
-    "static/js/740.2b4e6c31.chunk.js": "/SiteBusca/static/js/740.2b4e6c31.chunk.js",
-    "index.html": "/SiteBusca/index.html",
-    "main.0da6ae8d.js.map": "/SiteBusca/static/js/main.0da6ae8d.js.map",
-    "740.2b4e6c31.chunk.js.map": "/SiteBusca/static/js/740.2b4e6c31.chunk.js.map"
+    "main.js": "/BuscaJogos/static/js/main.2abaddbf.js",
+    "static/js/740.2b4e6c31.chunk.js": "/BuscaJogos/static/js/740.2b4e6c31.chunk.js",
+    "index.html": "/BuscaJogos/index.html",
+    "main.2abaddbf.js.map": "/BuscaJogos/static/js/main.2abaddbf.js.map",
+    "740.2b4e6c31.chunk.js.map": "/BuscaJogos/static/js/740.2b4e6c31.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.0da6ae8d.js"
+    "static/js/main.2abaddbf.js"
   ]
 }
