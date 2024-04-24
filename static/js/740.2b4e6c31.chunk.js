@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbuscador_jogos=self.webpackChunkbuscador_jogos||[]).push([[740],{5740:(a,s,e)=>{e.r(s),e.d(s,{default:()=>d});e(5043);var r=e(5865),o=e(1792),t=e(579);const d=()=>{const{resultados:a}=(0,o.a)();return(0,t.jsx)("div",{children:a.map((a=>(0,t.jsxs)("div",{children:[(0,t.jsx)("img",{src:a.background_image,alt:a.name,style:{maxWidth:"200px",maxHeight:"200px"}}),(0,t.jsxs)(r.A,{children:[a.name," - Plataformas: ",a.platforms.map((a=>a.platform.name)).join(", ")]})]},a.id)))})}}}]);
+//# sourceMappingURL=740.2b4e6c31.chunk.js.map
